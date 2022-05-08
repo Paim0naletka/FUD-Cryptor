@@ -12,4 +12,3 @@ And so this is a great FUD script for minor problems with protectors.(for beginn
 
 А так это отличный FUD крипт для не сильного запаривания с протекторами.(новичкам) 
 
-(И да я решил написать всё на русском т.к. мне лень писать на английском)
