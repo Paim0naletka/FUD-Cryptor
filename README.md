@@ -4,6 +4,7 @@ FUD Cryptor | Silent Downloader
 =========================================================================================================================
 
 English
+
   Hi, this is not a full-fledged FUD crypt of anything, this is a regular Silent loader, it needs to be additionally encrypted in some way .Net reactor
 
 And so this is a great FUD crypt for minor problems with protectors.(for beginners)
